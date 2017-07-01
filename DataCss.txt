@@ -1,0 +1,142 @@
+<!DOCTYPE html> 
+<html> 
+    <head>
+        <title>html css</title> 
+            <link rel="stylesheet" href="style.css"> 
+      <style> 
+             table, th, td { 
+             border: 1px solid black; 
+             } 
+      </style> 
+   </head> 
+<body> 
+
+      <header> 
+      <h2 style="text-align:center"> 2008 Officers</h2> 
+      </header> 
+       <br> 
+       
+       <table class="tftable" id="table1" width="400px" > 
+       <tr>  
+       <td colspan="3" style="text-align:center; font-weight:bold"> Current Officers</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>President</td> 
+       <td>Jesse Blair</td> 
+       <td>555-7189</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Vice-President</td> 
+       <td>Frank Smythe</td> 
+       <td>505-555-3576</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Secretary</td> 
+       <td>Jean Darr</td> 
+       <td>555-5415</td> 
+       </tr> 
+ 
+        <tr> 
+        <td>Treasurer</td> 
+        <td>Linda Carter</td> 
+        <td>555-9653</td> 
+        </tr> 
+ 
+        <table class="tftable" id="table2" width="200px"> 
+        <tr>  
+        <td colspan="2" style="text-align:center; font-weight:bold">Board Members at Large</td> 
+        </tr> 
+ 
+        <tr> 
+        <td>Dick Wilson</td> 
+        <td>555-1982</td> 
+        </tr> 
+ 
+        <tr> 
+        <td>Jan Davis</td> 
+        <td>555-3530</td> 
+        </tr> 
+ 
+         </table > 
+         <table class="tftable" width="400px"> 
+
+         <tr>  
+         <td colspan="2" style="text-align:center; font-weight:bold">Calling Committee</td> 
+        </tr> 
+ 
+          <tr> 
+          <td style="font-weight:bold">Chairman:Hary Bean</td> 
+          <td>555-7388</td> 
+          </tr> 
+ 
+         <tr> 
+         <td>Hoot Gibson</td> 
+         <td>555-2952</td> 
+         </tr> 
+ 
+        <tr> 
+        <td>Sam Akard</td> 
+        <td>555-7897</td> 
+        </tr> 
+ 
+        <tr> 
+        <td>Joe Carter</td> 
+        <td>555-9653</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Betty Alexander</td> 
+       <td>555-5287</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Jerry Bear</td> 
+       <td>555-9162</td> 
+      </tr> 
+ 
+       <tr> 
+       <td>Linda Carter</td> 
+       <td>555-9653</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Joe Vaughn</td> 
+       <td>555-7815</td> 
+       </tr> 
+ 
+        <tr> 
+        <td>Chartyne Fields</td> 
+        <td>555-7695</td> 
+        </tr> 
+ 
+        <tr> 
+        <td>Margie Digison</td> 
+        <td>555-6236</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Amold Treadway</td> 
+       <td>555-8916</td> 
+      </tr> 
+ 
+       <tr> 
+       <td>Bob Webb</td> 
+       <td>555-9825</td> 
+       </tr> 
+ 
+       <tr> 
+       <td>Jan Davis</td> 
+       <td>555-9826</td> 
+       </tr> 
+       </table> 
+           </body> 
+                  </html> 
+ 
+
+ 
+ 
+ 
+ 

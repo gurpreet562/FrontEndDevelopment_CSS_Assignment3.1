@@ -1,0 +1,16 @@
+body{ 
+       background:powderblue; 
+      } 
+ table{ 
+       margin:auto; 
+       } 
+.tftable tr:hover { 
+        background-color: #ffffff; 
+       } 
+#table1 { 
+         margin-bottom:30px; 
+       }  
+#table2 { 
+         margin-bottom:30px; 
+      } 
+ 
